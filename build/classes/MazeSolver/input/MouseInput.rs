@@ -1,0 +1,1 @@
+mazesolver.input.MouseInput
